@@ -382,6 +382,10 @@
 									<h5>Email:</h5>
 									<span>brnet00@gmail.com</span>
 								</div><!-- /row -->
+								<div class="row-fluid alt">
+									<h5>Blog:</h5>
+									<span><a href="http://birajkarmakar.wordpress.com" rel="external">birajkarmakar.wordpress.com</a></span>
+								</div>
 								<div class="row-fluid alt" >
 									<h5>Blog:</h5>
 									<span><a href="http://birajkarmakar.wordpress.com" rel="external">birajkarmakar.wordpress.com</a></span>
@@ -397,37 +401,25 @@
 										<span><a href="http://linkedin.com/pub/biraj-karmakar/30/71b/aa" onclick="window.open(this.href,'sharer','toolbar=0,status=0,width=626,height=436'); return false;"><img src="img/lk.png" href="https://facebook.com/biraj.karmakar" alt="Biraj Karmakar"></a></span>
 										<span><a href="http://www.flickr.com/photos/birajkarmakar/with/9607695791/" onclick="window.open(this.href,'sharer','toolbar=0,status=0,width=626,height=436'); return false;"><img src="img/fli.png" href="https://facebook.com/biraj.karmakar" alt="Biraj Karmakar"></a>
 									</span>
-								</div><!-- /row -->
-								
-								<!--div class="row-fluid alt">
-									<h5>Facebook:</h5>
-									<span><a href="https://facebook.com/biraj.karmakar" rel="external">Biraj Karmakar</a></span>
 								</div>
-								<div class="row-fluid alt">
-									<h5>Linkedin:</h5>
-									<span><a href="http://linkedin.com/pub/biraj-karmakar/30/71b/aa" rel="external">Biraj Karmakar</a></span>
-								</div><!-- /row -->
-								
-
 							</div><!-- /span4 -->
 							
 							<div class="span8">
 							
 								<div class="row-fluid">
-										<p style="text-align:center"><img src="img/main3.jpg" alt="Biraj Karmakar" class="img-circle"></p>
-									</div><!-- /span12 -->
 									<div class="span12">
 										
-								
+									</div><!-- /span12 -->
+									<p style="text-align:center"><img src="img/main3.jpg" alt=""></p>
 								</div><!-- /row-fluid -->
 								
 								
 							</div><!-- /span8 -->	
 						
 						<div id="footer">
-							<div class="row-fluid">
+							<div class="row-fluid"><p style="text-align:center"><img src="img/main3.jpg" alt="Biraj Karmakar" class="img-circle"></p>
 								<div class="span12">
-									<center><p class="credit">Copyright &copy; 2013 - All Rights Reserved - <a href="http://twitter.com/birajkarmakar"><b class="k">Biraj Karmakar</b></a></p></center>
+									
 								</div><!-- /span12 -->
 							</div><!-- /row-fluid -->	
 						</div><!-- /footer -->
@@ -445,4 +437,3 @@
 		<script type="text/javascript" src="js/main.js"></script>
 	</body>
 </html>
-
